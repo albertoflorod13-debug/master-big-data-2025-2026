@@ -1,0 +1,5 @@
+fastapi[standard]
+numpy
+ipykernel
+opencv-python
+matplotlib

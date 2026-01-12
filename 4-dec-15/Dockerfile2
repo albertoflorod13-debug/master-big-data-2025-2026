@@ -1,0 +1,7 @@
+FROM alpine:latest
+
+# RUN executes at build time
+RUN echo "Built at image creation time" > /build.txt
+
+# CMD executes at container start
+CMD ["cat", "/build.txt"]

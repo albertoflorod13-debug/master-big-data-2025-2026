@@ -1,0 +1,7 @@
+FROM alpine:latest
+
+ENV NAME=world
+
+CMD ["sh", "-c", "echo Hello $NAME"]
+
+# docker run -e NAME=class demo:env

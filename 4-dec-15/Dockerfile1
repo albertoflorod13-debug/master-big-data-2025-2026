@@ -1,0 +1,7 @@
+FROM alpine:latest
+
+# Create a file inside the image
+COPY message.txt /message.txt
+
+# Read it at runtime
+CMD ["cat", "/message.txt"]

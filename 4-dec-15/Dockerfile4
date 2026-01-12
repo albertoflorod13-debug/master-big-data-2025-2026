@@ -1,0 +1,9 @@
+FROM alpine:latest
+
+# Set working directory
+WORKDIR /app
+
+# Relative paths now start from /app
+RUN echo "Hello from WORKDIR" > file.txt
+
+CMD ["cat", "file.txt"]
