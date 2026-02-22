@@ -81,3 +81,6 @@ Una vez desplegada la plataforma y subidas algunas imágenes:
 **¡No dudes en investigar y consultar toda la documentación oficial de las librerías y tecnologías usadas en este proyecto!**  
 Buscar información por tu cuenta es parte fundamental del aprendizaje.  
 Si alguna parte no te queda clara o tienes dudas concretas, **pregunta al profesor** sin problema.
+
+Puedes descargar imagenes de dron de:
+https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
