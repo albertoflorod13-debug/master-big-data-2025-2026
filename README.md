@@ -9,4 +9,8 @@ Repositorio de prácticas y ejercicios del Master en Big Data.
 - `3-dec-9/` - Docker y APIs
 - `4-dec-15/` - Docker
 - `5-jan-12/` - Numpy
-- `6-jan-19/` - Comandos de linux y shell
+- `6-jan-19/` - Comandos de Linux y shell
+- `7-jan-26/` - Hadoop con Docker (HDFS, YARN)
+- `8-feb-2/` - NumPy broadcasting
+- `9-feb-16/` - Pandas y Seaborn
+- `a10-feb-23/` - Práctica general (FastAPI, MinIO, PostgreSQL, Docker Compose)
