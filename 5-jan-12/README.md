@@ -23,6 +23,8 @@ Implementa una función `normalize_by_column` que normalice cada columna de una 
 
 Controle las excepciones necesarias.
 
+m - min / (max - min)
+
 **Ejemplo:**
 
 ```python
